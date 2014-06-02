@@ -1,0 +1,9 @@
+{
+  "packages": {
+    "x-editable-bootstrap": {},
+    "turkserver": {
+      "path": "packages/turkserver-meteor"
+    },
+    "sharejs": {}
+  }
+}
